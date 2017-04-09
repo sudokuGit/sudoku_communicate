@@ -1,1 +1,1 @@
-{"request_id":"22a0b063-9e72-4723-9daf-a8455d188e51","sender":"irc:MyJames@irc.freenode.net/#MyCamelTest\u0026nickname\u003dMyJames","sudoku":[],"instruction":"register:gui"}
+{"request_id":"5705c25e-8784-4e61-b5ee-efbf3174f775","sender":"irc:MyJames@irc.freenode.net/#MyCamelTest\u0026nickname\u003dMyJames","sudoku":[7,5,8,5,7,2,4,7,2,9,8,7,5,6,1,7,7,7,3,9,7,4,2,7,1,7,3,1,3,2,6,5,9,5,6,9,9,5,6,9,1,1,2,8,2,4,2,6,7,8,4,8,9,4,3,8,6,3,3,3,6,7,3,1,1,5,4,5,3,4,7,5,1,5,4,7,4,3,4,8,4],"instruction":"register:gui"}
