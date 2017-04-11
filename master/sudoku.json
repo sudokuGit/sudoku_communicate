@@ -1,1 +1,1 @@
-{"reguest_id":"854466b4-8e20-49d5-bdda-8e1b8370d44b","instruction":"display","sudoku":[1,2,3,4,5,6,7,8,9,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"sender":"git://../sudoku_communicate?remoteName=origin&remotePath=https://github.com/sudokuGit/sudoku_communicate.git"}
+{"request_id":"79f84469-8de0-4156-bb3d-74b3338f0b88","sender":"irc:@irc.freenode.net/#MyCamelTest\u0026nickname\u003dMyJames","sudoku":[1,2,0,0,0,0,0,0,0],"instruction":"display"}
